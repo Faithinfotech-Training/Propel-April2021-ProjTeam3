@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/TAMS/.vs/TAMS
+/TAMS/obj
+/TAMS/appsettings.Development.json
